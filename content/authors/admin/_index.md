@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Bektur Ryskeldiev
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,61 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Tsukuba
+  url: "https://digitalnature.slis.tsukuba.ac.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include immersive media, spatial computing, and new media art.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Immersive media (AR/VR/XR)
+- Spatial Computing
+- Mobile Computing
+- Computational Creativity
+- New Media Art
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of Aizu
+    year: 2018
+  - course: MS in Computer Science
+    institution: University of Aizu
+    year: 2015
+  - course: BA in Software Engineering
+    institution: American University of Central Asia
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
+  icon_pack: fab
+  link: https://twitter.com/Apolotary
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/rbektour
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/Apolotary
+- icon: linkedin
+  icon_pack: fab
+  link: http://linkedin.com/in/bektur-ryskeldiev-193477123
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.jp/citations?user=wPZVN08AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Apolotary
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:bektour@apolotary.com'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +81,15 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Kyrgyzstani-born multidisciplinary researcher and creative technologist, focused on spatial and social computing, human-computer interaction, immersive media, and digital art. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently doing my postdoc at Digital Nature Group, University of Tsukuba, where I investigate how advances in handheld and wearable technologies are changing the ways we interact and perceive each other online. My ultimate goal is to build systems and applications that reform the traditional social media interfaces towards a better form of interaction, communication, and a sense of being together. 
+
+Outside of my main work, I serve as an educator, organizer, and content producer at ACM SIGGRAPH, as well as a creator and manager of different tech, art, and science communities around the globe, including one of the largest meetups on mechanical keyboards in Japan, first computer graphics conference in Kyrgyzstan, and one of the first AI+XR tech hackathons in Tokyo.
+
+More about me:
+
+* [My CV](https://drive.google.com/file/d/0B8sCNsXuv-inaTZjVW5jYWVyMTQ/view?usp=sharing)
+* [ACM SIGGRAPH member profile](https://www.siggraph.org/discover/inspiration/member-profiles/bektur-ryskeldiev)
+* [Laboratory page](https://digitalnature.slis.tsukuba.ac.jp/2018/03/bektur-ryskeldiev/)
+* [My media art portfolio (WIP)](http://ysrgbt.work)
